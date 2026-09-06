@@ -79,5 +79,5 @@ public class App {
             System.out.println("Robot: " + report.serialNumber() + ", Data wdrożenia: " + report.commissionDate());
         }
     }
-
+//
 }
